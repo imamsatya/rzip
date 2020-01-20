@@ -1,6 +1,6 @@
-# Quasar App (hayo-apa)
+# R-Zip App 
 
-A Quasar Framework app
+Aplikasi sederhana untuk merapikan arsip
 
 ## Install the dependencies
 ```bash
