@@ -22,5 +22,9 @@ npm run lint
 quasar build
 ```
 
+### Online Demo
+https://tolis-rzip.web.app/
+
+
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
