@@ -22,7 +22,7 @@ npm run lint
 quasar build
 ```
 
-### Online Demo X
+### Online Demo
 https://tolis-rzip.web.app/
 
 
